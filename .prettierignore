@@ -1,0 +1,17 @@
+
+/.Vscode
+/node_modules
+/.vscode-test
+/coverage
+/.github
+/jest.config.js
+./dist
+
+
+*.env
+.env
+.env.*
+!.env.development
+!jest.setup.ts
+!package-lock.json
+!yarn.lock
